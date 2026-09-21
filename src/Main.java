@@ -22,3 +22,4 @@ public class Main {
         for (Sinhvien sv : danhSach) {
     }
 }
+// hien thi
