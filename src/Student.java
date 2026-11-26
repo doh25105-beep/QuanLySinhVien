@@ -12,6 +12,6 @@ public class Student {
     public String getMaSV() { return maSV; }
 
     public void hienThiThongTin() {
-        System.out.println("[FEATURE] Thong tin SV: " + maSV + " | " + hoTen + " | " + ngaySinh);
+        System.out.println("Thong tin SV: " + maSV + " | Ho ten: " + hoTen + " | Ngay sinh: " + ngaySinh);
     }
 }
